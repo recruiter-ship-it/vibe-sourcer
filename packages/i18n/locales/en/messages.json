@@ -38,7 +38,7 @@
     "message": "Back to chat"
   },
   "welcome_title": {
-    "message": We"lcome to Vibe Source!r"!
+                "message": "Welcome to Vibe Sourcer!"
   },
   "welcome_instruction": {
     "message": "To get started, please configure your API keys in the settings page."
