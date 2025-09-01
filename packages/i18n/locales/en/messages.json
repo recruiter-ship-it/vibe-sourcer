@@ -1,11 +1,11 @@
 {
   "app_metadata_description": {
     "description": "Extension description",
-    "message": "Automate web tasks with AI! NanoBrowser is an open-source Chrome extension that lets you extract data, fill forms, and more."
+       "message": "Automate recruiting tasks with AI! Vibe Sourcer is an open-source Chrome extension that helps you extract candidate data, fill forms, and more."
   },
   "app_metadata_name": {
     "description": "Extension name",
-    "message": "Nanobrowser: AI Web Agent & Automation"
+    "message": "Vibe Sourcer: AI Web Agent & Automation"
   },
   "errors_unknown": {
     "message": "Unknown error occurred"
@@ -38,7 +38,7 @@
     "message": "Back to chat"
   },
   "welcome_title": {
-    "message": "Welcome to Nanobrowser!"
+    "message": Welcome to Vibe Sourcer!
   },
   "welcome_instruction": {
     "message": "To get started, please configure your API keys in the settings page."
